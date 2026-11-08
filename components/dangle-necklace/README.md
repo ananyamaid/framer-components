@@ -5,7 +5,9 @@ A necklace that drops into place when the section scrolls into view and hangs on
 The chain is drawn in code with tiny alternating links, so you only need to add a picture of the pendant.
 
 ## Preview
-![preview](preview.gif)
+
+https://github.com/user-attachments/assets/b6e2690c-ba93-4cf6-9603-f56c4a164437
+
 
 ## How to use in Framer
 1. Create a new code component in Framer and paste in the code from DangleNecklace.tsx.
